@@ -37,6 +37,7 @@
     "nodes": {
       "telldus-gateway": "lib/telldus-gateway.js",
       "telldus-device": "lib/telldus-device.js",
+      "telldus-deviceinfo": "lib/telldus-deviceinfo.js",
       "telldus-metricsensor": "lib/telldus-metricsensor.js",
       "telldus-switchsensor": "lib/telldus-switchsensor.js"
     }
